@@ -5,11 +5,11 @@ Version: v0.1.0(Last update: 2026-01-30)
 ## 作者信息
 - Jiabao Wang（北京邮电大学，Beijing University of Posts and Telecommunications）
 - Yuzhong Sun（中国科学院计算技术研究所，https://www.researchgate.net/profile/Yuzhong-Sun/research ） 
-- Li Xiao（北京邮电大学，Beijing University of Posts and Telecommunications）
+- Li Xiao（北京邮电大学，Beijing University of Posts and Telecommunications,https://www.researchgate.net/profile/Li-Xiao-12）
   
 
 ## 联系方式
-- Email：yuzhongsun@ict.ac.cn
+- Email：yuzhongsun@ict.ac.cn;andrewxiao@bupt.edu.cn.
 
 ## 摘要
 CO-UCAgent 是在原始 [UCAgent](https://github.com/XS-MLVP/UCAgent) 基础上，围绕“上下文利用效率与验证效率”做的增强版本，重点优化了检索、摘要与长期记忆等上下文管理流程，并提供可复现实验数据的汇总。其聚焦于验证型 Agent 在长任务场景中的上下文管理问题，提出一套面向工程可用性的改进方案，包括结构化摘要、分层摘要、检索重排序与长期记忆协同机制，并通过公开实验记录给出系统级评价。该项目的贡献不在于扩大模型能力本身，而在于通过更稳定的上下文表达与更可控的上下文裁剪，使得复杂验证流程在相同模型与工具链条件下获得更高的成功率与更稳定的运行行为。
