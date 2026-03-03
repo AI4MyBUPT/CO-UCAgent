@@ -4,9 +4,9 @@ Version: v0.1.0(Last update: 2026-01-30)
 
 ## 作者信息
 - Jiabao Wang（北京邮电大学，Beijing University of Posts and Telecommunications）
-- Yuzhong Sun（中国科学院计算技术研究所，Institute of Computing Technology, Chinese Academy of Sciences） 
+- Yuzhong Sun（中国科学院计算技术研究所，https://www.researchgate.net/profile/Yuzhong-Sun/research ） 
 - Li Xiao（北京邮电大学，Beijing University of Posts and Telecommunications）
-  ResearchGate: https://www.researchgate.net/profile/Yuzhong-Sun/research
+  
 
 ## 联系方式
 - Email：yuzhongsun@ict.ac.cn
